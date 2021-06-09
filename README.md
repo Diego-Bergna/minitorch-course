@@ -1,3 +1,3 @@
 # minitorch-course
 
-Repositorio para l presentación de tareas del curso Inteligencia Artificial-CC421
+Repositorio para la presentación de tareas del curso Inteligencia Artificial-CC421
